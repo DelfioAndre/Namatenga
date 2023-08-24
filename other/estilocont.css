@@ -1,0 +1,47 @@
+@charset "UTF-8"
+
+
+:root {
+    --cor1: #ff991c;
+    --cor2: #ff281c;
+    --cor3: #ff1c81;
+
+    --fonte1: EchinosParkScript_PERSONAL_USE_ONLY, cursive, sans-serif;
+    --fonte2: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte3: Cyberfunk;
+    --fonte4: Progress-ORDIN_MAC;
+    --fonte5: Sriracha-Regular;
+    --fonte6: bubblegum-sans-regular;
+
+}
+
+main p{
+    font-family: var(--fonte2);
+    text-indent: 0px;
+    
+    }
+    a{
+        color:var(--cor3);
+        text-decoration: none;
+        text-indent: 5px;
+        display: inline-block;
+    }
+    a:hover{
+        color: rgba(0, 0, 0, 0.637);
+    }
+    /*a#redes {
+        display: inline-block;
+    }*/
+
+    h3#nome {
+        color: black;
+        text-align: center;
+        background-color: none;
+
+    }
+
+    .img {
+        position: absolute;
+        position: center;
+    
+    }
