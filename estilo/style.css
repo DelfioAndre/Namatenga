@@ -127,7 +127,7 @@ main h2{
 main p {
     text-align: justify;
     text-indent: 20px;
-    font-family: var(--fonte1);
+    font-family: var(--fonte2);
     font-size: 1em;
     font-weight: normal;
     margin-top: 10px;
